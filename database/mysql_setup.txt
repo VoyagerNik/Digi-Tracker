@@ -1,0 +1,14 @@
+-- Create the 'project' table
+
+CREATE TABLE project (
+    app VARCHAR(50) DEFAULT NULL,  
+    time FLOAT DEFAULT NULL       
+);
+
+
+-- Create the 'weekly_use' table
+
+CREATE TABLE weekly_use (
+    day VARCHAR(30) DEFAULT NULL,  
+    totaltime MEDIUMINT DEFAULT NULL  
+);
