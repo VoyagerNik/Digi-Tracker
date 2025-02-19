@@ -1,0 +1,7 @@
+mysql-connector-python
+matplotlib
+psutil
+Pillow
+pywin32
+tk
+pandas

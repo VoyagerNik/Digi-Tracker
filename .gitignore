@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Database files (if using SQLite)
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE-specific settings
+.vscode/
+.idea/
+
+# MySQL configuration (if any sensitive config is present)
+*.cnf
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Tkinter-related cache (if any)
+tkinter_temp/
